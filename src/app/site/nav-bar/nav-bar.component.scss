@@ -1,0 +1,21 @@
+.navbar{
+    .navbar-collapse{
+
+        a{
+            margin: 0px 20px;
+            font-weight: 100;
+            font-family: sans-serif;
+        }
+        a:hover{
+            background-color: lightblue;
+            color: blue;
+            transition: 0.1s;
+            border-radius: 0.5em;
+            align-items: center;
+            
+            
+     
+        }
+    }
+    
+}
